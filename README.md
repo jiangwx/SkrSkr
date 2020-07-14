@@ -6,6 +6,8 @@ This is the repository for SkrSkr that won the x place in [the 57th IEEE/ACM Des
 
 > hayj@shanghaitech.edu.cn
 
+![image](RICL.png)
+
 Our design bases on [SkyNet](https://github.com/TomG008/SkyNet), the champion design of [the 56th IEEE/ACM Design Automation Conference System Design Contest (DAC-SDC)](http://www.cse.cuhk.edu.hk/~byu/2019-DAC-SDC/index.html). We deliver 73.13% Intersection over Union (IoU) and 52.5fps on Ultra96v2 and 57fps on Ultra96v1. Our contributions are as follows:
 1. **One Shot Fully Integer Quantization**
 - One Shot: Our method does not require fine-tuning and calibration set (but achieves higher accuracy with a calibration set consists of 8 images).
