@@ -1,5 +1,5 @@
 # SkrSkr
-This is the repository for SkrSkr that won the second place in [the 57th IEEE/ACM Design Automation Conference System Design Contest (DAC-SDC)](http://https://dac-sdc-2020.groups.et.byu.net/doku.php). Designed by
+This is the repository for SkrSkr that won the second place in [the 57th IEEE/ACM Design Automation Conference System Design Contest (DAC-SDC)](https://dac-sdc-2020.groups.et.byu.net/doku.php). Designed by
 > SkrSkr, Reconfigurable and Intelligent Computing Lab, ShanghaiTech University.
 
 > Jiang Weixiong, Liu Xinzhe, Sun Hao, Li Rui, Luo Shaobo, Yu Heng, Ha Yajun*
